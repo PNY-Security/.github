@@ -1,9 +1,9 @@
 <h1 align="center">PNY Security</h1>
-<h6 align="center"> 
+<h6 align="center"> The official Github organization for PNY Security </h6>
 
-The official Github organization for PNY Security
-
-
+- **MS Defender Automations**: Enhance security posture with automated scripts for Microsoft Defender.
+- **Intune Remediations**: Streamline device management with Intune remediation scripts.
+- **Miscellaneous Security Scripts**: Explore a variety of other security-related scripts to bolster network defenses.
 
 
 <!--
