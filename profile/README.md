@@ -4,7 +4,7 @@
 - **MS Defender Automations**: Enhance security posture with automated scripts for Microsoft Defender.
 - **Intune Remediations**: Streamline device management with Intune remediation scripts.
 - **Miscellaneous Security Scripts**: Explore a variety of other security-related scripts to bolster network defenses.
-
+- **C# projects**: Miscellaneous projects for the IT toolbox
 
 <!--
 
